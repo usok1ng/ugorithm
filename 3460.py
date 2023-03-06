@@ -1,6 +1,6 @@
-## Bronze3 no.3460 이진수
+#2. Bronze3 no.3460 이진수
 
-t = int(input())
+T = int(input())
 
 while t > 0:
     n = int(input())
@@ -13,4 +13,4 @@ while t > 0:
         cnt += 1
     for i in range(len(arr)):
         print(arr[i], end = ' ')
-    t -= 1
+    T -= 1
