@@ -1,4 +1,4 @@
-# [#3] Bronze3 no.2501 약수 구하기
+# Bronze3 no.2501 약수 구하기
 
 a, b = map(int, input().split())
 arr = [0]
